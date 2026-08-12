@@ -1,7 +1,7 @@
 {
     "python-envs.pythonProjects": [
         {
-            "path": "trading algo.py",
+            "path": "bot.py",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
